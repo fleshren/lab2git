@@ -2,3 +2,9 @@ My name is Morgan Fleshren
 I am a Senior at Santa Clara University
 My major is Computer Engineering
 I work at Roos Instruments
+
+This quarter I am taking:
+- Coen174 - software engineering
+- Coen161 - Web Design
+- Coen194 - Senior Design
+- Tesp124 - Theology of Marriage
